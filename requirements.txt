@@ -1,4 +1,4 @@
-#Install only the latest required packages
+#Install only the required packages
 appnope==0.1.0
 backports-abc==0.4
 backports.ssl-match-hostname==3.5.0.1
