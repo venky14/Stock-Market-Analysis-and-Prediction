@@ -42,4 +42,4 @@ six==1.10.0
 terminado==0.6
 tornado==4.3
 traitlets==4.1.0
-wheel==0.24.0
+wheel==0.38.1
